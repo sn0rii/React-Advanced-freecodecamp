@@ -14,4 +14,5 @@ const UserContainer = ({ user, logout }) => {
     </div>
   );
 };
+
 export default UserContainer;
